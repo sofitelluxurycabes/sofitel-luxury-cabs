@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sofitel-luxury-cabes.netlify.app/sitemap.xml
